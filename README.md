@@ -30,11 +30,12 @@ Um sistema full-stack modular para gerenciar campanhas de WhatsApp em massa, flu
 
 ## 🚀 Instalação Rápida
 
+
 ### 1. Clonar repositório
 
 ```bash
-git clone <seu-repositorio>
-cd whats
+git clone https://github.com/Guilhermossauro/whatsapp-manager.git
+cd whatsapp-manager
 ```
 
 ### 2. Instalar dependências
@@ -1048,4 +1049,5 @@ MIT License - veja [LICENSE](LICENSE) para detalhes
 
 **Versão:** 1.0.0  
 **Última atualização:** Maio/2026  
-**Mantido por:** [yummisDev]
+**Repositório:** [github.com/Guilhermossauro/whatsapp-manager](https://github.com/Guilhermossauro/whatsapp-manager)
+**Autor:** Guilhermossauro
